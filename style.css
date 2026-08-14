@@ -1,0 +1,17 @@
+header {
+    background-color: ;
+}
+
+img {
+    border: 4px rgb(109, 109, 255) solid;
+    border-style:outset;
+    border-radius: 10px;
+    border-width: 15px;
+    border-top: 10px;
+}
+
+body {
+    background-color: rgb(114, 113, 117);
+    border: 10px rgb(255, 69, 69);
+    border-bottom-color: hsl(219, 100%, 50%); border-left-color: hsl(219, 100%, 50%);
+}
