@@ -10,6 +10,16 @@ body {
     width: 100%;
 }
 
+.login_apps img {
+    height: 20px;
+    width: 25px;
+}
+
+.login_apps p {
+    color: white;
+    
+}
+
 #CineShop {
     height: 100px;
     width: 150px;
